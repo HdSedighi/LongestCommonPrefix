@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\bin\Debug\net7.0\MyProject.exe
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\bin\Debug\net7.0\MyProject.deps.json
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\bin\Debug\net7.0\MyProject.dll
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\bin\Debug\net7.0\MyProject.pdb
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.dll
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.pdb
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\longestCommonPrefix\MyProject\obj\Debug\net7.0\ref\MyProject.dll
